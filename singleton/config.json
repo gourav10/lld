@@ -1,0 +1,9 @@
+{
+    "name":"configurations",
+    "version":"1.0.0",
+    "settings":{
+        "connection_string":"zxczxcv213dffs12we",
+        "max_borrow_limit":"10",
+        "session_limit":"5"
+    }
+}
