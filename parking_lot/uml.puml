@@ -1,0 +1,29 @@
+@startuml
+abstract class ParkingSpot{
+    - id
+    -isOccupied
+    + assignVehicle()
+    + removeVehicle()
+}
+
+class HandicappedParkingSpot{
+
+}
+
+class CompactParkingSpot{
+
+}
+
+class LargeCarParkingSpot{
+
+}
+
+class MotorcycleParkingSpot{
+
+}
+
+ParkingSpot <|-- HandicappedParkingSpot
+ParkingSpot <|-- CompactParkingSpot
+ParkingSpot <|-- LargeCarParkingSpot
+ParkingSpot <|-- MotorcycleParkingSpot
+@enduml
