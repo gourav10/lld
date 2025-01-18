@@ -88,3 +88,15 @@ Open for extension.
 Closed for modification.
 
 Using an enum requires changes in multiple parts of the code, which may lead to fragility and bugs. An alternative solution could involve creating a class hierarchy for parking spots.
+
+### 2. Parking Lot
+The Parking Lot class will be a singleton class and it will contain multiple smaller objects.
+
+- Can take configurations
+
+### Smaller objects
+We will use  Abstract Factory and Factory Design pattern to instantiate smaller objects.
+
+- Set of terminals will be instantiated
+- Instantiate parking assignment strategy and pass configuration object
+  - 
