@@ -6,7 +6,7 @@
 ## 1. Creational Deisgn Pattern
 These patterns provide various object creation mechanisms, which increase flexibility and re-use existing code.
 1. [Factory Method](./factory_method/README.md)
-2. Abstract Factory Method
+2. [Abstract Factory Method](./abstract_factory/README.md)
 3. Builder
 4. Prototype
 5. [Singleton](./singleton/README.md)
