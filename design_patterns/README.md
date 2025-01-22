@@ -14,5 +14,10 @@ These patterns provide various object creation mechanisms, which increase flexib
 4. Prototype
 5. [Singleton](./singleton/README.md)
 
+## 2. Behavioral Design Pattern
+Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
+
+
 
 
